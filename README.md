@@ -1,6 +1,4 @@
-# Spring-2020-203C-Data-Exploration
-<<<<<<< Updated upstream
+# Spring 2020 203C Data Exploration
+
 Celia Symons
 =======
-
-Typed in R studio
