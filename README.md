@@ -1,4 +1,4 @@
 # Spring 2020 203C Data Exploration
 
-Celia Symons
+expression(italic(Celia Symons))
 =======
