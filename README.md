@@ -1,4 +1,7 @@
 # Spring 2020 203C Data Exploration
 
-expression(italic(Celia Symons))
+Celia Symons
+UC Irvine
+Ecology and evolutionary biology seminar
+
 =======
